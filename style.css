@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 2.6rem;
+}
+
+.img{
+    border: 5px solid white;
+    width: 100%;
+
+}
+.grp{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    
+}
+.pp{
+    text-transform: uppercase;
+}
